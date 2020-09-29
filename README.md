@@ -4,3 +4,4 @@
 * Visualizing SafeGraph social-distancing data: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kywch/geo-colab/blob/master/SafeGraph-social-distancing-visualize.ipynb)
 * Visualizing SafeGraph social-distancing data by zip code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kywch/geo-colab/blob/master/SafeGraph-social-distancing-by-zipcode.ipynb)
 * Filtering SafeGraph Core POI: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kywch/geo-colab/blob/master/SafeGraph-filter-places.ipynb)
+* GSV point sampling: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kywch/geo-colab/blob/master/TreePedia_Step1_point_sampling.ipynb)
